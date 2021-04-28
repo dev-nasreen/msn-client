@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+.location-input{
+    border: 0;
+    border-radius: 5px;
+}
+.field{
+    border-radius: 5px;
+    box-shadow: 0 2px 5px 2px #ccc;
+    font-weight: 700;
+}
+.guest{
+    border-bottom: 1px solid #cdcdcd;
+}
+.location-input:focus {
+     border-color: none!important; 
+   box-shadow: none; 
+}
+.card-img-top {
+    height: 100%;
+}
